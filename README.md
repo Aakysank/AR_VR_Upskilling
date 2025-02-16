@@ -10,3 +10,10 @@ Did Apple bowl modelling, texturing, and rendering myself.
 4. Modelled the deformed cloth fabric using animation, and applied the cloth texture and normal map from the reference textures.
 5. Modelled the knife and knife handle using the reference image available and applied texture from the image.(using stencil approach)
 6. Rendered using EEVEE.
+
+
+referred tutorials from cgboost
+
+although I didn't model the water droplets on apple and texturing of apple cross section.
+
+planning to do it soon
